@@ -1,0 +1,50 @@
+.sidebar{
+	background-color:#CE78CD; 
+	padding:5px;
+	margin-bottom:1px;
+}
+
+.menubar{
+	background-color:#CE78CD; 
+	padding:5px;
+	width:100%;  
+	float:left
+}
+.menuItem{
+	background-color:#CE78CD; 
+	padding:5px;
+	margin-bottom:1px;
+	float:left;
+}
+
+.subItem{
+	background-color:#CE78CD; 
+	padding:5px;
+	margin-bottom:1px;
+}
+.subItem:hover{
+	background-color:#CE7889; 
+	padding:5px;
+	margin-bottom:1px;
+}
+
+.dropDown{
+	display:none;
+	position:absolute;
+	background-color:#CE78CD;
+	margin-bottom:1px;
+	z-index=1;
+}
+
+.sidebar:hover{
+	background-color:#DFAA89; 
+	padding:5px;
+	margin-bottom:1px;
+	color:blue;
+}
+.mainContent{
+	width:78%; 
+	float:left;
+	padding-left:10px;
+	background-color:#CEDF9A;
+}
